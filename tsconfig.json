@@ -1,12 +1,1 @@
-{
-  "compilerOptions": {
-    "module": "ESNext",
-    "target": "ES2022",
-    "moduleResolution": "NodeNext",
-    "resolveJsonModule": true,
-    "allowSyntheticDefaultImports": true,
-    "isolatedModules": true,
-    "noEmit": true,
-    "strict": true
-  }
-}
+ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogIkVTTmV4dCIsCiAgICAidGFyZ2V0IjogIkVTMjAyMiIsCiAgICAibW9kdWxlUmVzb2x1dGlvbiI6ICJOb2RlTmV4dCIsCiAgICAicmVzb2x2ZUpzb25Nb2R1bGUiOiB0cnVlLAogICAgImFsbG93U3ludGhldGljRGVmYXVsdEltcG9ydHMiOiB0cnVlLAogICAgImlzb2xhdGVkTW9kdWxlcyI6IHRydWUsCiAgICAibm9FbWl0IjogdHJ1ZSwKICAgICJzdHJpY3QiOiB0cnVlCiAgfQp9
